@@ -1,0 +1,33 @@
+function Block(letter, rate, used, father, code) {
+this.letter = letter;
+Dee te
+
+ 
+
+this.used = used;
+Re ee
+Set eae
+
+function FindCode(block) {
+
+if (tree[block.father].code != "") {
+block.code = tree[block.father].code + ‘1°;
+
+eres
+if (block.letter
+Stra te
+
+i
+
+ 
+
+Bee C a >a ee ae
+
+ 
+
+eet Osa lee eto deere ee
+block.code = ‘1°;
+3
+Cees
+FindCode(tree[block.father]);
+block.code = tree[block.father].code + *0";
